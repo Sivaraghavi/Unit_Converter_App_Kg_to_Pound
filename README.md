@@ -20,7 +20,7 @@ To get started with the KG to LB Converter, follow these steps:
 
 ## Screenshots
 
-![App Screenshot 1](unitconveter.jpg)
+![App Screenshot 1](unitconverter.jpg)
 
 ## Contact
 
